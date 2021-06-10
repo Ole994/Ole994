@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ole994
 - 👀 I’m interested in Front-end development, training and making music
 - 🌱 I’m currently learning how to expand my knowledge within coding, programmin and designing
-- 💞️ I’m looking to collaborate on ... social media and person to person
+- 💞️ I’m looking to collaborate on ... social media and physically (person to person)
 - 📫You can reach me at telephone, +47 909 66 971 
 
 <!---
